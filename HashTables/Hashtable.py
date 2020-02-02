@@ -21,3 +21,4 @@ print(items2)
 # looping through dictionary keys:
 for key, value in items2.items():
     print("Key: ", key, "value: ", value)
+
